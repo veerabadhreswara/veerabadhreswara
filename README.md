@@ -192,3 +192,13 @@
 <img src="https://raw.githubusercontent.com/veerabadhreswara/veerabadhreswara/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h3 align="left">🚵 My Activities</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=https://medium.com/@gangadhararaoburada&theme=blue-green" alt="Layout with last medium posts"  />
+</div>
+
+###
