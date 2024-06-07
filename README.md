@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/veerabadhreswara/veerabadhreswara/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png"  />
+  <img height="250" width ="1000" src="https://github.com/veerabadhreswara/veerabadhreswara/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png"  />
 </div>
 
 ###
