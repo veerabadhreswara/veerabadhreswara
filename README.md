@@ -1,31 +1,27 @@
 <div align="center">
-  <img height="250" width="1000" src="https://github.com/veerabadhreswara/veerabadhreswara/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png"  />
+  <img height="150" src="https://github.com/veerabadhreswara/veerabadhreswara/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png"  />
 </div>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=veerabadhreswara.veerabadhreswara&left_color=green&right_color=purple&left_text=Profile%20Visitors%20"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=veerabadhreswara.veerabadhreswara&left_text=Visitors"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://in.linkedin.com/in/gangadhararaoburada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="" alt="linkedin logo"  />
   </a>
   <a href="https://hackerrank.com/veerabadhrapoly1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="" alt="hackerrank logo"  />
   </a>
   <a href="https://t.me/gangadhararaoburada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="" alt="telegram logo"  />
   </a>
   <a href="https://medium.com/@gangadhararaoburada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="center">Seeking to achieve a position in a reputed company which provides me with adequate opportunities to increase my skills and knowledge, along with contributing for the growth of the company.</h3> <br/>
 
 ###
 
@@ -36,6 +32,10 @@
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+<img align="right" height="150" src="https://github.com/veerabadhreswara/veerabadhreswara/blob/main/studying.jpg"  />
 
 ###
 
@@ -178,5 +178,13 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=veerabadhreswara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="230" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">🚵 My Activities</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/veerabadhreswara/veerabadhreswara/output/snake.svg" alt="Snake animation" />
 
 ###
