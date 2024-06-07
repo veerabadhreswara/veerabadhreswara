@@ -25,6 +25,10 @@
 
 ###
 
+<h3 align="center">Seeking to achieve a position in a reputed company which provides me with adequate opportunities to increase my skills and knowledge, along with contributing for the growth of the company.</h3> <br/>
+
+###
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=veerabadhreswara&theme=juicyfresh&column=-1&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -181,7 +185,7 @@
 
 ###
 
-<h3 align="left">🚵 My Activities</h3>
+<h3 align="left">🚵 Contribution</h3>
 
 ###
 
