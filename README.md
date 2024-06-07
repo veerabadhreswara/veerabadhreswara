@@ -4,9 +4,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=veerabadhreswara.veerabadhreswara&left_color=green&right_color=purple&left_text=Profile%20Visitors"  />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=veerabadhreswara.veerabadhreswara&left_color=green&right_color=purple&left_text=Profile%20Visitors%20"  />
 
 ###
 
@@ -37,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Gangadhara Rao Burada<br><br>- 🔭 I’m working as Intern<br>- 📚 I'm currently learning Job Opportunities <br>- ⚡ In my free time I do some project works</p>
+<p align="left">I'm Gangadhara Rao Burada<br><br>- 🔭 I’m working as Intern<br>- 📚 I'm currently looking for Job Opportunities <br>- ⚡ In my free time I do some project works</p>
 
 ###
 
@@ -175,16 +173,6 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=veerabadhreswara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="230" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/veerabadhreswara/veerabadhreswara/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=medium.com/@gangadhararaoburada&theme=blue-green" alt="Layout with last medium posts"  />
 </div>
 
 ###
