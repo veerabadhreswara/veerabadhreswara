@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/veerabadhreswara/veerabadhreswara/blob/main/studying.jpg"  />
+<img align="right" height="180" src="https://github.com/veerabadhreswara/veerabadhreswara/blob/main/studying.jpg"  />
 
 ###
 
